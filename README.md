@@ -27,7 +27,7 @@ This project's objective is to develop a machine-learning-based bot specifically
 ## Technologies Used
 - **Cleaning:** Python/JSON, Pandas, transkriptor.com, DaVinci Resolve
 - **AI/ML:** OpenAI API, Natural Language Processing, GPT Model 3.5, GPT Model 4.0, Babbage
-- **Presentation:** HTML/CSS, JavaScript, Dub Dub, MidJourney, Eleven Labs, DALL-E
+- **Presentation:** HTML/CSS, JavaScript, Dub Dub, Midjourney, Eleven Labs, DALL-E
 
 ## How it works
 
